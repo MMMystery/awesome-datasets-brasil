@@ -53,6 +53,7 @@ O foco é praticidade para projetos de dados: apenas fontes oficiais (governo, i
 - [Banco Central - Expectativas de Mercado (Pesquisa Focus)](https://dadosabertos.bcb.gov.br/dataset/expectativas-mercado): Expectativas de mercado da Pesquisa Focus para IPCA, PIB, Selic e câmbio (mensais, anuais e Top5); API OData (Olinda) em JSON, CSV e XML.
 - [Portal Brasileiro de Dados Abertos - Economia e Finanças](https://dados.gov.br/dados/temas/economia-e-financas): Tema do catálogo federal que reúne conjuntos econômico-financeiros de diversos órgãos (Fazenda, STN, BCB) com metadados e downloads em CSV/JSON/API.
 - [IBGE - SIDRA (Sistema IBGE de Recuperação Automática)](https://sidra.ibge.gov.br/): Tabelas oficiais de indicadores econômicos (IPCA/INPC, PIB, PNAD, produção industrial); consulta web e API REST de dados agregados em JSON.
+- [Tabelas trabalhistas CLT 2026 em JSON](https://github.com/MMMystery/tabelas-clt-2026): Salário mínimo, faixas do INSS, tabela do IRRF com a redução da Lei 15.270/2025, seguro-desemprego, FGTS e aviso prévio; cada valor traz o ato oficial, a data de vigência e a data de conferência; arquivos JSON versionados no GitHub, licença CC BY 4.0.
 
 ## Educacao (INEP, ENEM, Censo Escolar, CAPES)
 
